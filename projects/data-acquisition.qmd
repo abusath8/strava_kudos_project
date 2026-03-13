@@ -55,7 +55,7 @@ Since Strava only returns a limited number of activities per request, I implemen
 From each activity returned by the API, I extracted several features relevant to my question:
 
 - Activity ID  
-- Activity name  
+- Activity title
 - Distance  
 - Moving time  
 - Total elevation gain  
@@ -104,5 +104,4 @@ The main limitation for this dataset is that I can only call the data from my pe
 ## Code Repository
 
 The full code used to collect this dataset can be found here:
-[Strava Authentication Documentation](https://developers.strava.com/docs/authentication/)
 [Github Strava Repository](https://github.com/abusath8/strava_kudos_project)
