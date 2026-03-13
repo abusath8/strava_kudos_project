@@ -133,7 +133,7 @@
     "href": "projects/data-acquisition.html#extract-relevant-variables",
     "title": "Does Posting a Photo on Strava Get You More Kudos?",
     "section": "4. Extract Relevant Variables",
-    "text": "4. Extract Relevant Variables\nFrom each activity returned by the API, I extracted several features relevant to my question:\n\nActivity ID\n\nActivity name\n\nDistance\n\nMoving time\n\nTotal elevation gain\n\nKudos count\n\nPhoto count\n\nWhether the activity contained a photo\n\nActivity date\n\nThese variables allow me to compare engagement (kudos) across activities with and without photos.",
+    "text": "4. Extract Relevant Variables\nFrom each activity returned by the API, I extracted several features relevant to my question:\n\nActivity ID\n\nActivity name\nDistance\n\nMoving time\n\nTotal elevation gain\n\nKudos count\n\nPhoto count\n\nWhether the activity contained a photo\n\nActivity date\n\nThese variables allow me to compare engagement (kudos) across activities with and without photos.",
     "crumbs": [
       "Does Posting a Photo on Strava Get You More Kudos?"
     ]
@@ -173,7 +173,7 @@
     "href": "projects/data-acquisition.html#code-repository",
     "title": "Does Posting a Photo on Strava Get You More Kudos?",
     "section": "Code Repository",
-    "text": "Code Repository\nThe full code used to collect this dataset can be found here: Strava Authentication Documentation Github Strava Repository",
+    "text": "Code Repository\nThe full code used to collect this dataset can be found here: Github Strava Repository",
     "crumbs": [
       "Does Posting a Photo on Strava Get You More Kudos?"
     ]
