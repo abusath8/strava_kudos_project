@@ -55,7 +55,7 @@ Since Strava only returns a limited number of activities per request, I implemen
 From each activity returned by the API, I extracted several features relevant to my question:
 
 - Activity ID  
-- Activity title
+- Activity name
 - Distance  
 - Moving time  
 - Total elevation gain  
